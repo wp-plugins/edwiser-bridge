@@ -8,7 +8,7 @@ License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
 
-Edwiser Bridge integrates WordPress with the Moodle LMS. The plugin provides an easy option to import Moodle courses to WordPress and sell them using PayPal.
+Edwiser Bridge integrates WordPress with Moodle LMS & provides an easy option to import and sell Moodle courses using WordPress.
 
  ==  Description == 
 
@@ -60,7 +60,8 @@ The plugin can be displayed in a required language by adding the necessary .mo &
 Various hooks and filters have been provided in Edwiser Bridge easing the customization process for developers.
 
  = Premium Extensions = 
-* WooCommerce Integration for Edwiser Bridge
+**WooCommerce Integration for Edwiser Bridge**
+
 Want to use the power of WooCommerce to sell your Moodle courses from WordPress? Take a look at the WooCommerce Integration for Edwiser Bridge that takes you through the WooCommerce Moodle Integration seamlessly.
 
 <a href = "https://edwiser.org/bridge/extensions/woocommerce-integration/">WooCommerce Integration for Edwiser Bridge</a>
@@ -117,4 +118,3 @@ Take a look at the link below to see the full list of questions which will help 
 
  =  1.0  = 
 * Plugin Launched
-
