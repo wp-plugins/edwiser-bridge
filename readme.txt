@@ -66,6 +66,12 @@ Want to use the power of WooCommerce to sell your Moodle courses from WordPress?
 
 <a href = "https://edwiser.org/bridge/extensions/woocommerce-integration/">WooCommerce Integration for Edwiser Bridge</a>
 
+**Single Sign On for Edwiser Bridge**
+
+The Single Sign On extension for Edwiser Bridge facilitates simultaneous login to WordPress and Moodle by entering login credentials only once.
+
+<a href = "https://edwiser.org/bridge/extensions/single-sign-on/">Single Sign On for Edwiser Bridge</a>
+
 
  ==  Installation  == 
 
